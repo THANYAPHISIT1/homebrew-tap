@@ -33,7 +33,7 @@ claude-switch --work
 claude-switch --personal
 ```
 
-*(For more details, visit the [main repository](https://www.google.com/search?q=https://github.com/THANYAPHISIT1/claude-switch) - Note: currently private)*
+*(For more details, visit the [main repository](https://github.com/THANYAPHISIT1/claude-switch)*
 
 ---
 
