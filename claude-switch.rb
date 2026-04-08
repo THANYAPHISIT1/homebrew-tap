@@ -2,16 +2,16 @@ class ClaudeSwitch < Formula
   desc "A blazingly fast profile manager for Claude Code"
   homepage "https://github.com/THANYAPHISIT1/claude-switch"
   license "MIT"
-  version "0.7.0"
+  version "0.9.0"
 
   on_arm do
-    url "https://github.com/THANYAPHISIT1/claude-switch/releases/download/v0.7.0/claude-switch-aarch64-apple-darwin.tar.gz"
-    sha256 "eef8e94964ec94977917f38f1bf5a21cd9e43c7dcb62facd90a3721ccad3c54a"
+    url "https://github.com/THANYAPHISIT1/claude-switch/releases/download/v0.9.0/claude-switch-aarch64-apple-darwin.tar.gz"
+    sha256 "57dfbc78a09e63912dcd4d0791231ddd0be8008d63acf86821772c8a34302a4f"
   end
 
   on_intel do
-    url "https://github.com/THANYAPHISIT1/claude-switch/releases/download/v0.7.0/claude-switch-x86_64-apple-darwin.tar.gz"
-    sha256 "0a9e02b0e18117cf9f06282fcbce14f905a53a26fc89601f2c5178a46d608029"
+    url "https://github.com/THANYAPHISIT1/claude-switch/releases/download/v0.9.0/claude-switch-x86_64-apple-darwin.tar.gz"
+    sha256 "8593463575f816714d0fcb4487fc5ae9b80add56bb0310bf58ba444cee59c556"
   end
 
   def install
